@@ -1,0 +1,206 @@
+[
+    {
+        "trainName": "Panjim Exp",
+        "trainNumber": "2349",
+        "departureTime": {
+            "Hours": 13,
+            "Minutes": 41,
+            "Seconds": 0
+        },
+        "seatsAvailable": {
+            "sleeper": 2,
+            "AC": 1
+        },
+        "price": {
+            "sleeper": 1,
+            "AC": 2
+        }
+    },
+    {
+        "trainName": "Lucknow Exp",
+        "trainNumber": "2347",
+        "departureTime": {
+            "Hours": 17,
+            "Minutes": 45,
+            "Seconds": 0
+        },
+        "seatsAvailable": {
+            "sleeper": 55,
+            "AC": 0
+        },
+        "price": {
+            "sleeper": 13,
+            "AC": 8
+        }
+    },
+    {
+        "trainName": "Mysore Exp",
+        "trainNumber": "2347",
+        "departureTime": {
+            "Hours": 13,
+            "Minutes": 40,
+            "Seconds": 0
+        },
+        "seatsAvailable": {
+            "sleeper": 55,
+            "AC": 0
+        },
+        "price": {
+            "sleeper": 13,
+            "AC": 8
+        }
+    },
+    {
+        "trainName": "Bokaro Exp",
+        "trainNumber": "2347",
+        "departureTime": {
+            "Hours": 13,
+            "Minutes": 39,
+            "Seconds": 0
+        },
+        "seatsAvailable": {
+            "sleeper": 55,
+            "AC": 0
+        },
+        "price": {
+            "sleeper": 13,
+            "AC": 8
+        }
+    },
+    {
+        "trainName": "Mumbai Exp",
+        "trainNumber": "2343",
+        "departureTime": {
+            "Hours": 22,
+            "Minutes": 53,
+            "Seconds": 0
+        },
+        "seatsAvailable": {
+            "sleeper": 32,
+            "AC": 1
+        },
+        "price": {
+            "sleeper": 1,
+            "AC": 633
+        }
+    },
+    {
+        "trainName": "Srinagar Exp",
+        "trainNumber": "2349",
+        "departureTime": {
+            "Hours": 15,
+            "Minutes": 5,
+            "Seconds": 0
+        },
+        "seatsAvailable": {
+            "sleeper": 2,
+            "AC": 1
+        },
+        "price": {
+            "sleeper": 1,
+            "AC": 2
+        }
+    },
+    {
+        "trainName": "Kolkata Exp",
+        "trainNumber": "2345",
+        "departureTime": {
+            "Hours": 20,
+            "Minutes": 29,
+            "Seconds": 0
+        },
+        "seatsAvailable": {
+            "sleeper": 4,
+            "AC": 4
+        },
+        "price": {
+            "sleeper": 6,
+            "AC": 662
+        }
+    },
+    {
+        "trainName": "Cochin Exp",
+        "trainNumber": "2348",
+        "departureTime": {
+            "Hours": 16,
+            "Minutes": 6,
+            "Seconds": 0
+        },
+        "seatsAvailable": {
+            "sleeper": 2,
+            "AC": 2
+        },
+        "price": {
+            "sleeper": 900,
+            "AC": 1033
+        }
+    },
+    {
+        "trainName": "Amritsar Exp",
+        "trainNumber": "2346",
+        "departureTime": {
+            "Hours": 19,
+            "Minutes": 13,
+            "Seconds": 0
+        },
+        "seatsAvailable": {
+            "sleeper": 10,
+            "AC": 1
+        },
+        "price": {
+            "sleeper": 896,
+            "AC": 1153
+        }
+    },
+    {
+        "trainName": "Cuttack Exp",
+        "trainNumber": "2346",
+        "departureTime": {
+            "Hours": 12,
+            "Minutes": 9,
+            "Seconds": 0
+        },
+        "seatsAvailable": {
+            "sleeper": 10,
+            "AC": 1
+        },
+        "price": {
+            "sleeper": 896,
+            "AC": 1153
+        }
+    },
+    {
+        "trainName": "Chennai Exp",
+        "trainNumber": "2344",
+        "departureTime": {
+            "Hours": 21,
+            "Minutes": 50,
+            "Seconds": 0
+        },
+        "seatsAvailable": {
+            "sleeper": 33,
+            "AC": 13
+        },
+        "price": {
+            "sleeper": 1123,
+            "AC": 1234
+        }
+    },
+    {
+        "trainName": "Pune Exp",
+        "trainNumber": "2342",
+        "departureTime": {
+            "Hours": 23,
+            "Minutes": 17,
+            "Seconds": 0
+        },
+        "seatsAvailable": {
+            "sleeper": 18,
+            "AC": 7
+        },
+        "price": {
+            "sleeper": 1802,
+            "AC": 2433
+        }
+    }
+]
