@@ -47,7 +47,6 @@ app.get('/trains/12hr', async (req, res) => {
             if (timeDiff>=30 &&currentTime <= departureTime && departureTime <= endTime) {
                 const pTrain = await axios.get(`${TrainsUrl}/${train.trainNumber}`, { headers: { Authorization: `Bearer ${token}` } });
                 const pTrainData = pTrain.data;
-                console.log("selected Train:", pTrainData);
                 filteredTrains.push({
                     "trainName": train.trainName,
                     "trainNumber": train.trainNumber,
